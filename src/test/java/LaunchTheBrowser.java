@@ -3,7 +3,7 @@ import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 
-public class OpenTheBrowser {
+public class LaunchTheBrowser {
     public static void main(String[] args) {
 
         // in order to use playwright framework, we need to create a playwright object
